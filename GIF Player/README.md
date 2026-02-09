@@ -202,9 +202,9 @@ plugin_folder/
 <details>
 <summary><b>📋 Table of Contents</b></summary>
 
-1. [Description](#description)
-2. [Features](#features)
-3. [Folder Structure](#folder-structure)
+1. [Description](#-description)
+2. [Features](#-features)
+3. [Folder Structure](#-folder-structure)
 4. [Settings](#settings)
 5. [Controls](#controls)
 6. [How It Works](#how-it-works)

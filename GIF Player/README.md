@@ -3,10 +3,16 @@
   <h3>StreamDock/AJAZZ AKP153</h3>
 </div>
 
+https://github.com/user-attachments/assets/b1fc7e00-3986-473e-a9c5-dd0825158263
+
 <p align="center">
   <a href="#-описание">🇷🇺 Русский</a> • 
   <a href="#-description">🇺🇸 English</a>
 </p>
+
+
+
+
 
 ---
 ## 🇷🇺 Русский

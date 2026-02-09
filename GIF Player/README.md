@@ -165,8 +165,8 @@ plugin_folder/
 
 - При первом открытии папки загрузка 
   может занять 1-2 секунды
-- Одновременное использование 3+ кнопок 
-  может вызвать легкие тормоза
+- Одновременное использование 2+ кнопок 
+  может вызвать тормоза
 - Рекомендуется использовать PNG вместо 
   GIF для лучшего качества
 - Настройки сохраняются автоматически 
@@ -346,7 +346,7 @@ plugin_folder/
      ### ⚠️ Known Issues
 
 - First-time folder loading may take 1-2 seconds
-- Using 3+ buttons simultaneously may cause slight lag
+- Using 2+ buttons simultaneously may cause lag
 - Recommended to use PNG instead of GIF for better quality
 - Settings are saved automatically when changed
 

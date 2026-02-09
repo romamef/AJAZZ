@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="#ru-описание">🇷🇺 Русский</a> • 
-  <a href="#en-description">🇺🇸 English</a>
+  <a href="#описание">🇷🇺 Русский</a> • 
+  <a href="#description">🇺🇸 English</a>
 </p>
 
 ---

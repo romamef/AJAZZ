@@ -123,6 +123,13 @@ Max Frames (10-999) - максимальное количество кадров
 
 Лучшая производительность: одна кнопка на странице, FPS=8
 -----------------------------------------------------------------------------------------------
+
+
+
+
+**ENG**
+
+
 Created a plugin (based on the fail.marc.onairclock.sdPlugin) for playing "VIDEO"
 
 I didn't like the com.ymp_yuri.streamdock.sdPlugin because when used on AJAZZ AKP153 it causes lag and buttons stop working.

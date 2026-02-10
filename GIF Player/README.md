@@ -6,17 +6,36 @@
 https://github.com/user-attachments/assets/b1fc7e00-3986-473e-a9c5-dd0825158263
 
 <p align="center">
-  <a href="#-описание">🇷🇺 Русский</a> • 
-  <a href="#-description">🇺🇸 English</a>
+  <a href="#-русский">🇷🇺 Русский</a> • 
+  <a href="#-english">🇺🇸 English</a>
 </p>
 
+---
 
+## 🔄 Обновления / Updates
 
-Обновление будут через изменение файла app.js в каталоге с плагином
+### 🇷🇺 Русская версия
+**Обновление плагина выполняется путем изменения файла `app.js` в каталоге плагина.**
 
-Updates will be applied by modifying the app.js file in the plugin directory
+> **Важно:** После обновления файла `app.js` необходимо перезапустить StreamDock для применения изменений.
+
+**История изменений:**
+- **V 0.02** - Улучшена производительность: уменьшены тормоза при скорости FPS ≤ 12
+- **V 0.01** - Первоначальный релиз
 
 ---
+
+### 🇺🇸 English Version
+**Plugin updates are applied by modifying the `app.js` file in the plugin directory.**
+
+> **Important:** After updating the `app.js` file, you need to restart StreamDock for changes to take effect.
+
+**Changelog:**
+- **V 0.02** - Performance improved: reduced lag at FPS ≤ 12
+- **V 0.01** - Initial release
+
+---
+
 ## 🇷🇺 Русский
 
 <details>

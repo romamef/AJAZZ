@@ -13,7 +13,9 @@ https://github.com/user-attachments/assets/b1fc7e00-3986-473e-a9c5-dd0825158263
 
 
 Обновление будут через изменение файла app.js в каталоге с плагином
+
 Updates will be applied by modifying the app.js file in the plugin directory
+
 ---
 ## 🇷🇺 Русский
 

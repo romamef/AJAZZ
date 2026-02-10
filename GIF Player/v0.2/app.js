@@ -473,7 +473,7 @@ async function loadAllFramesBatched(folderName, animationsFolder, format, maxFra
     }
     
     // Размер батча
-    const BATCH_SIZE = 5;
+    const BATCH_SIZE = 4;
     
     // Загружаем батчами
     for (let batchStart = startIndex; batchStart < maxFrames + startIndex; batchStart += BATCH_SIZE) {

@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/b1fc7e00-3986-473e-a9c5-dd0825158263
 > **Важно:** После обновления файла `app.js` необходимо перезапустить StreamDock для применения изменений.
 
 **История изменений:**
-- **V 0.03** - Улучшена производительность: уменьшены тормоза при скорости FPS ≤ 12
+- **V 0.03** - Улучшена производительность: уменьшены тормоза при скорости FPS ≤ 12 + больше GIF
 - **V 0.02** - Улучшена производительность: уменьшены тормоза при скорости FPS ≤ 12
 - **V 0.01** - Первоначальный релиз
 
@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/b1fc7e00-3986-473e-a9c5-dd0825158263
 > **Important:** After updating the `app.js` file, you need to restart StreamDock for changes to take effect.
 
 **Changelog:**
+- **V 0.03** - Performance improved + more Gif
 - **V 0.02** - Performance improved: reduced lag at FPS ≤ 12
 - **V 0.01** - Initial release
 
